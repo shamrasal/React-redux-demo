@@ -7,6 +7,9 @@
   text-align: center;
   background-color: #f4f0fa;
 }
+.counter button {
+  margin: 1rem;
+}
 
 .counter h1 {
   text-transform: uppercase;
@@ -20,4 +23,5 @@
   color: #3c0080;
   margin: 2rem 0;
   font-weight: bold;
+  padding: 1%;
 }
